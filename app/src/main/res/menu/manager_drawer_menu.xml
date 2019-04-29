@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_managerprofile"
+            android:icon="@drawable/ic_employeeprofile"
+            android:title="Profile" />
+
+        <item android:id="@+id/nav_managerrota"
+            android:icon="@drawable/ic_employeerota"
+            android:title="Rota" />
+
+        <item android:id="@+id/nav_managerstock"
+            android:icon="@drawable/ic_employeestock"
+            android:title="Stock" />
+
+        <item android:id="@+id/nav_managereotm"
+            android:icon="@drawable/ic_employeeeotm"
+            android:title="Employee Of The Month" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "1061866287762",
+    "firebase_url": "https://mystoremanager-cb92a.firebaseio.com",
+    "project_id": "mystoremanager-cb92a",
+    "storage_bucket": "mystoremanager-cb92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061866287762:android:66cb3d2ec88c9b3e",
+        "android_client_info": {
+          "package_name": "ie.dcu.computing.student.lenehan4.mystoremanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061866287762-bl7rc7dg2ema5r4kqhn1noqg6ur1da5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.dcu.computing.student.lenehan4.mystoremanager",
+            "certificate_hash": "5d884206b1156fda18c0a3de6134467e1d350d1e"
+          }
+        },
+        {
+          "client_id": "1061866287762-0n23vlf4tpfnbv4vk7a3ujmkc9hd110d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.dcu.computing.student.lenehan4.mystoremanager",
+            "certificate_hash": "f5ce5693a3ab37e2d9e5204828118c0672a492e6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSn18B0BXlgnAbfI2YhsTcCuNo6dPt4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061866287762-8tp1uco0alqt4s2o7k0agmp24j04hb58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
